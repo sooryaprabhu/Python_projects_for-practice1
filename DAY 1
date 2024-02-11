@@ -1,0 +1,12 @@
+This Python script is a simple computer quiz designed to test the user's knowledge of basic computer concepts.
+It prompts the user with multiple-choice questions about CPU, AI, GPU, RAM, and PSU. 
+After each question, the user's answer is evaluated, and feedback is provided based on correctness.
+At the end of the quiz, the user's score is calculated and displayed.
+
+Functionality:
+The quiz starts with a welcome message, asking the user if they want to play. 
+If the user chooses to play, they are presented with a series of questions one by one.
+For each question, the user inputs their answer, which is then compared to the correct answer using a case-insensitive comparison.
+If the user's answer matches the correct answer, they receive positive feedback, and their score is incremented. 
+If the answer is incorrect, the user is informed and provided with the correct answer. After all questions are answered, the user's total score and percentage of correct answers are displayed. 
+The script is designed to be interactive and user-friendly, providing an engaging experience for users to test their computer knowledge
